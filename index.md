@@ -12,7 +12,7 @@
 |1 |2022/04/11 |[機械学習の概要](slide/MachineLearning2022_01.pdf) / [副教材1](slide/ml2022intro_01.pdf)|
 |2 |2022/04/18 |[確率モデルと機械学習](slide/MachineLearning2022_02.pdf) / [副教材2](slide/ml2022intro_02.pdf)|
 |3 |2022/04/25 |[教師あり学習（回帰モデル）](slide/MachineLearning2022_03.pdf) / [副教材3](slide/ml2022intro_03.pdf)|
-|4 |2022/05/02 |教師あり学習（分類モデル）|
+|4 |2022/05/02 |[教師あり学習（分類モデル）](slide/MachineLearning2022_04.pdf) / [副教材4](slide/ml2022intro_04.pdf)|
 |5 |2022/05/09 |アンサンブル学習|
 |6 |2022/05/16 |演習1|
 |7 |2022/05/23 |ニューラルネットの基礎|
@@ -27,7 +27,6 @@
 |16|2022/0?/?? |評価（到達度の確認）|
 
 <!--
-|3 |2022/04/25 |[教師あり学習（回帰モデル）]（ビデオも確認すること）|
 |4 |2022/05/02 |[教師あり学習（分類モデル）](slide/MachineLearning2022_04.pdf)，[（宿題補足資料）](slide/MachineLearning2022_04-05_suppl.pdf)|
 |5 |2022/05/09 |[アンサンブル学習](slide/MachineLearning2022_05.pdf)|
 |6 |2022/05/16 |[演習1](slide/MachineLearning2022_06.pdf)|
