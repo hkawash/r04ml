@@ -13,8 +13,8 @@
 |2 |2022/04/18 |[確率モデルと機械学習](slide/MachineLearning2022_02.pdf) / [副教材2](slide/ml2022intro_02.pdf)|
 |3 |2022/04/25 |[教師あり学習（回帰モデル）](slide/MachineLearning2022_03.pdf) / [副教材3](slide/ml2022intro_03.pdf)|
 |4 |2022/05/02 |[教師あり学習（分類モデル）](slide/MachineLearning2022_04.pdf) / [副教材4](slide/ml2022intro_04.pdf)|
-|5 |2022/05/09 |[アンサンブル学習](slide/MachineLearning2022_05.pdf) / [副教材5](slide/ml2022intro_05.pdf) / [レポート1の解答](slide/MachineLearning2022_report1_answer.pdf)|
-|6 |2022/05/16 |演習1|
+|5 |2022/05/09 |[アンサンブル学習](slide/MachineLearning2022_05.pdf) / [副教材5](slide/ml2022intro_05.pdf) / [レポート1解答](slide/MachineLearning2022_report1_answer.pdf) / [宿題解答](slide/MachineLearning2022_04-05_suppl.pdf)|
+|6 |2022/05/16 |[演習1](slide/MachineLearning2022_06.pdf)|
 |7 |2022/05/23 |ニューラルネットの基礎|
 |8 |2022/05/30 |ディープラーニング（深層学習）|
 |9 |2022/06/06 |演習2|
