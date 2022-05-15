@@ -27,9 +27,6 @@
 |16|2022/0?/?? |評価（到達度の確認）|
 
 <!--
-|4 |2022/05/02 |[教師あり学習（分類モデル）](slide/MachineLearning2022_04.pdf)，[（宿題補足資料）](slide/MachineLearning2022_04-05_suppl.pdf)|
-|5 |2022/05/09 ||
-|6 |2022/05/16 |[演習1](slide/MachineLearning2022_06.pdf)|
 |7 |2022/05/23 |[ニューラルネットの基礎](slide/MachineLearning2022_07.pdf)|
 |8 |2022/05/30 |[ディープラーニング（深層学習）](slide/MachineLearning2022_08.pdf)|
 |9 |2022/06/06 |[演習2](slide/MachineLearning2022_09.pdf)|
