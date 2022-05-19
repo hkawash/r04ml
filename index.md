@@ -15,7 +15,7 @@
 |4 |2022/05/02 |[教師あり学習（分類モデル）](slide/MachineLearning2022_04.pdf) / [副教材4](slide/ml2022intro_04.pdf)|
 |5 |2022/05/09 |[アンサンブル学習](slide/MachineLearning2022_05.pdf) / [副教材5](slide/ml2022intro_05.pdf) / [レポート1解答](slide/MachineLearning2022_report1_answer.pdf) / [宿題解答](slide/MachineLearning2022_04-05_suppl.pdf)|
 |6 |2022/05/16 |[演習1](slide/MachineLearning2022_06.pdf)|
-|7 |2022/05/23 |ニューラルネットの基礎|
+|7 |2022/05/23 |[ニューラルネットの基礎](slide/MachineLearning2022_07.pdf) / [副教材6](slide/ml2022intro_06.pdf)|
 |8 |2022/05/30 |ディープラーニング（深層学習）|
 |9 |2022/06/06 |演習2|
 |10|2022/06/13 |畳み込みニューラルネット|
