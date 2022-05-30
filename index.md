@@ -17,7 +17,7 @@
 |6 |2022/05/16 |[演習1](slide/MachineLearning2022_06.pdf)|
 |7 |2022/05/23 |[ニューラルネットの基礎](slide/MachineLearning2022_07.pdf) / [副教材6](slide/ml2022intro_06.pdf)|
 |8 |2022/05/30 |[ディープラーニング（深層学習）](slide/MachineLearning2022_08.pdf)|
-|9 |2022/06/06 |演習2|
+|9 |2022/06/06 |[演習2](slide/MachineLearning2022_09.pdf)|
 |10|2022/06/13 |畳み込みニューラルネット|
 |11|2022/06/20 |演習3|
 |12|2022/06/27 |生成モデル|
@@ -27,7 +27,6 @@
 |16|2022/0?/?? |評価（到達度の確認）|
 
 <!--
-|9 |2022/06/06 |[演習2](slide/MachineLearning2022_09.pdf)|
 |10|2022/06/13 |[畳み込みニューラルネット](slide/MachineLearning2022_10.pdf)|
 |11|2022/06/20 |[演習3](slide/MachineLearning2022_11.pdf)|
 |12|2022/06/27 |[生成モデル](slide/MachineLearning2022_12.pdf)|
